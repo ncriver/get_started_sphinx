@@ -1,28 +1,29 @@
-
-
 Experience
 ############
 
-Job Title at Company
-**********************
+Assistant Coach of Flight at Redjaw High School
+*************************************************
 
 *April 2011 - Present*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+* Developed training programs for young flight atheletes.
+* Inspired young wing atheletes to be their best.
+* Maintained the flight gym.
 
-Job Title at Company
-***********************
+Product Design Associate at Airstream Flight Products
+*******************************************************
 
 *Janruary 2007 - March 2011*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+* Assisted with the design and testing of athletic flight products.
+* Marketed products via social media.
 
-Job Title at Company
-*********************
+Clerk at Mufa Sports
+****************************
 
 *October 2004 - December 2006*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
+* Stocked products on shelves.
+* Processed customer orders.
 
 

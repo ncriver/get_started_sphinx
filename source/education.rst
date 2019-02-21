@@ -3,20 +3,17 @@
 Education 
 ############
 
-College/University
+Far Wing University
 **********************
 
-*Degree*
+*Master of Science in Wing Exercise Science*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+* Dissertation was titled, "On the effect of legal performance-enhanching potions on wing performance."
 
-
-College/University
+Dawn Cry University
 **********************
 
-*Degree*
+*Bachelor of Science in Wing Exercise Science*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
-
-
+* Class Valedictorian.
+* Four-time medalist of collegiate flight competition.

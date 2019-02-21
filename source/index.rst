@@ -6,7 +6,7 @@ Sample Resume with Sphinx
          :name: my picture
          :width: 30%
 
-Carlos Dragonas
+**Carlos Dragonas**
 
 Instructor, Middledragon Community College
 
