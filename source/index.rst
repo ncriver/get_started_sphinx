@@ -7,6 +7,7 @@ Sample Resume with Sphinx
          :width: 30%
 
 Carlos Dragonas
+
 Instructor, Middledragon Community College
 
 |Contents|
