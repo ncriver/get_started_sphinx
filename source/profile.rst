@@ -2,10 +2,11 @@
 Personal Profile
 #################
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+Carlos Dragonas is a green dragon who is passionate about teaching younglings the joy and beauty of flight. Here are some of his specialties.
 
-* Bullet 1
-* Bullet 2
+* First flight teaching.
+* Everyday wing maintenance and exercises.
+* Training for power flights competitions. 
 
 
 
