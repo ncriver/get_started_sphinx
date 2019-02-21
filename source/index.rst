@@ -6,9 +6,8 @@ Sample Resume with Sphinx
          :name: my picture
          :width: 30%
 
-Mark Hoeber
-Instructor, Middlesex Community College
-
+Carlos Dragonas
+Instructor, Middledragon Community College
 
 |Contents|
 
