@@ -18,11 +18,10 @@ author = u'Mark Hoeber'
 
 language = None
 
-
 pygments_style = 'sphinx'
 
-html_theme = 'default'
-#html_theme = 'alabaster'
+#html_theme = 'default'
+html_theme = 'alabaster'
 #html_theme = 'nature'
 #html_theme = 'pyramid'
 
