@@ -13,7 +13,7 @@ Assistant Coach of Flight at Redjaw High School
 Product Design Associate at Airstream Flight Products
 *******************************************************
 
-*Janruary 2007 - March 2011*
+*January 2007 - March 2011*
 
 * Assisted with the design and testing of athletic flight products.
 * Marketed products via social media.
