@@ -1,4 +1,4 @@
-Sample Resume with Sphinx
+Dragon Sample Resume with Sphinx
 ###############################
 
 
